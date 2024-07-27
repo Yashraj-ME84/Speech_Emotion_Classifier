@@ -1,6 +1,6 @@
 # Speech_Emotion_Classifier
 
-Objectives
+Objectives :
 
 extract the features from audio samples/data
 
